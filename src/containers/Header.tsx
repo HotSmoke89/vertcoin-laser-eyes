@@ -55,7 +55,7 @@ const Header: React.FC<Props> = () => {
           <Col>
             <Logo>
               <img src="images/logo.svg" alt="" />
-              crypto<span>lasereyes</span>
+              Vertcoin <span>laser eyes</span>
             </Logo>
           </Col>
 
