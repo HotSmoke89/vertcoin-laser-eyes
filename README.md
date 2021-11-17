@@ -1,6 +1,8 @@
-# cryptolazereyes.com
+# vertcoin-laser-eyes.com 
 
-The “CRYPTO LAZER EYES MASK” app is provided for fun and convenience. We never store photos, and do not transmit any data besides an anonymous identifier containing no personal information. We have also made the source code available in the event you would like to review it.
+Forked from https://github.com/stakefish/crypto-laser-eyes
+
+The “VERTCOIN LAZER EYES MASK” app is provided for fun and convenience. We never store photos, and do not transmit any data besides an anonymous identifier containing no personal information. We have also made the source code available in the event you would like to review it.
 
 ---------------------
 Feel free to fork this repo to create your own mask app! 
