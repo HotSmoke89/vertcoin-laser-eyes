@@ -54,8 +54,8 @@ const Header: React.FC<Props> = () => {
         <Row middle="xs" center="xs" between="sm">
           <Col>
             <Logo>
-              <img src="images/logo.svg" alt="vertcoin-laser-eyes.com" />
-              Vertcoin-<span>laser-eyes.com</span>
+			<a href="/"><img src="images/vtc-laser-eyes-logo.svg" alt="vertcoin-laser-eyes.com" /></a>
+              Vertcoin<span>-laser-eyes.com</span>
             </Logo>
           </Col>
 

@@ -11,6 +11,10 @@ export interface SvgIconProps {
 
 const renderIconKey = (iconKey: string) => {
   switch (iconKey) {
+	case "vertcoin":
+      return "\\e978"
+	case "discord":
+      return "\\e979"
     case "twitter":
       return "\\e900"
     case "telegram":

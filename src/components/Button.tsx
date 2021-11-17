@@ -44,7 +44,7 @@ const Button = styled.button<ButtonProps>`
 
   @media all and (max-width: 580px) {
     border-radius: 12px;
-    padding: 8px 16px;
+    padding: 10px 16px;
     width: 100%;
     font-size: 14px;
     line-height: normal;
