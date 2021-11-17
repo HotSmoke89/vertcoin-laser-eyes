@@ -201,7 +201,7 @@ const Sandbox: React.FC<Props> = ({ laser = Laser.Gold, portrait }: Props) => {
       stageRef.current.toImage({
         pixelRatio: 3,
         callback(img: any) {
-          download(img.src, "crypto-laser-eyes.png")
+          download(img.src, "vertcoin-laser-eyes.png")
         },
       })
     }
@@ -240,7 +240,7 @@ const Sandbox: React.FC<Props> = ({ laser = Laser.Gold, portrait }: Props) => {
                 as="a"
                 target="_blank"
                 rel="noreferrer"
-                href="https://twitter.com/intent/tweet?text=Join%20the%20revolution.%20Be%20part%20of%20the%20laser%20eye%20family%20and%20update%20your%20profile%20picture%20today!&url=https%3A%2F%2Fcryptolasereyes.com&hashtags=LaserRayUntil100K"
+                href="https://twitter.com/intent/tweet?text=Join%20the%20revolution%20-%20Gaming%20while%20Mining%20Vertcoin.%20Be%20part%20of%20the%20laser%20eye%20family%20and%20update%20your%20profile%20picture%20today!&url=https%3A%2F%2Fvertcoin-laser-eyes.com&hashtags=LaserRayUntil100K&hashtags=GamingwhileMining"
               >
                 <SvgIcon iconKey="share" />
                 <span>Share</span>

@@ -47,10 +47,10 @@ const Social: React.FC<Props> = () => {
       <span>
         {"Powered by Vertcoin Community "}
       </span>
-      <SocialLink href="https://twitter.com/vertcoin" target="_blank" rel="noreferrer">
-        <SvgIcon iconKey="twitter" />
+      <SocialLink href="https://discord.gg/vertcoin" target="_blank" rel="noreferrer">
+        <SvgIcon iconKey="discord" />
       </SocialLink>
-      <SocialLink href="https://github.com/stakefish/crypto-laser-eyes" target="_blank" rel="noreferrer">
+      <SocialLink href="https://github.com/HotSmoke89/vertcoin-laser-eyes" target="_blank" rel="noreferrer">
         <SvgIcon iconKey="github" />
       </SocialLink>
     </Wrapper>
